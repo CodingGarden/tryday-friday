@@ -1,0 +1,42 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hello HTMX</title>
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css"
+    />
+    <style>
+      .htmx-request + div {
+        display: none;
+      }
+    </style>
+  </head>
+  <body class="container">
+    <main id="app" class="container">
+      <h1>Autocomplete UI Showdown: HTMX</h1>
+      <div>
+        <label for="filter">
+          Tree
+          <input
+            id="filter"
+            name="filter"
+            hx-get="/search"
+            hx-sync="this:replace"
+            hx-trigger="keyup changed delay:500ms"
+            hx-target="#results"
+            hx-indicator="#progress"
+          />
+        </label>
+      </div>
+      <section>
+        <progress class="htmx-indicator" id="progress"></progress>
+        <div id="results">
+          <p id="suggestionMessage">Type to see suggestions.</p>
+        </div>
+      </section>
+    </main>
+    <script src="https://unpkg.com/htmx.org@1.9.10"></script>
+  </body>
+</html>

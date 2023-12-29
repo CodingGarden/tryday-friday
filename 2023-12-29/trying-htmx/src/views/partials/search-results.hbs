@@ -1,0 +1,13 @@
+{{#if filter }}
+  {{#if results.length}}
+    {{#each results}}
+    <article>
+      <h2>{{this}}</h2>
+    </article>  
+    {{/each}}
+  {{else}}
+    <p>No suggestions to display.</p>
+  {{/if}}
+{{else}}
+  <p>Type to see suggestions.</p>
+{{/if}}
