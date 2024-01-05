@@ -1,17 +1,21 @@
 # Try Day Friday
 
+* [2024-01-05](./2024-01-05/README.md)
+  * Topic Rust
 * [2023-12-29](./2023-12-29/README.md)
   * Trying HTMX
 
 # Future Topics
 
-* .NET API
 * Laravel
 * Rust
+* GoDot
+* Java / Spring Boot
 * Machine Learning
   * https://teachablemachine.withgoogle.com/
-* GoDot
+* Astro
+* .NET API
 * Math related...
 * Shadcn
 * grpc
-* Java / Spring Boot
+* Drizzle
