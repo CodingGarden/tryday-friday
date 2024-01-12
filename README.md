@@ -1,14 +1,14 @@
 # Try Day Friday
 
-* [2024-01-05](./2024-01-05/README.md)
-  * Topic Rust
-* [2023-12-29](./2023-12-29/README.md)
+* [2024-01-12](./2024-01-12/)
+  * Trying PHP / Laravel
+* [2024-01-05](./2024-01-05/)
+  * Trying Rust
+* [2023-12-29](./2023-12-29/)
   * Trying HTMX
 
 # Future Topics
 
-* Laravel
-* Rust
 * GoDot
 * Java / Spring Boot
 * Machine Learning
@@ -19,3 +19,4 @@
 * Shadcn
 * grpc
 * Drizzle
+* Adonis.js
