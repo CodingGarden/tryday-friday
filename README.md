@@ -1,5 +1,9 @@
 # Try Day Friday
 
+* [2024-01-26](./2024-01-26/)
+  * Trying Java / Spring Boot
+* [2024-01-19](./2024-01-19/)
+  * Trying Godot
 * [2024-01-12](./2024-01-12/)
   * Trying PHP / Laravel
 * [2024-01-05](./2024-01-05/)
