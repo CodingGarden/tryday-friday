@@ -15,10 +15,49 @@
 
 # Future Topics
 
-* Machine Learning
-* Astro
-* .NET API
-* Shadcn
-* grpc
-* Drizzle
-* Adonis.js
+* AI
+  * Machine Learning
+  * Google Gemini API
+  * Open AI API
+* JS Metaframeworks
+  * Astro
+  * Adonis.js
+  * Deno Fresh
+  * Elysia + Bun
+  * Hugo
+* JS Libraries / Frameworks
+  * Ember.js
+  * Alpine.js
+  * Shadcn
+  * Feathers-Pinia
+  * Tanstack Router
+  * TypeScript Plugin / Transformer
+  * Typia
+* Backend Frameworks
+  * .NET
+    * API
+    * Blazor
+    * Maui
+* Backend JS Libraries
+  * Drizzle
+  * Hono
+* Rest API Alternatives
+  * grpc
+  * trpc
+  * hono stack
+* Languages  
+  * Elixer
+  * Zig
+* Mobile Dev
+  * React Native
+  * Flutter
+* Production / Devops / Platforms
+  * Apache Kafka
+  * Databases
+    * Planetscale
+    * Neon
+    * pocketbase
+  * Paas / BaaS
+    * fly.io
+    * render
+    * others....
