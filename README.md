@@ -1,7 +1,7 @@
 # Try Day Friday
 
 * [2024-02-02](./2024-02-02/)
-  * Topic TBD
+  * Trying Flutter
 * [2024-01-26](./2024-01-26/)
   * Trying Java / Spring Boot
 * [2024-01-19](./2024-01-19/)
@@ -45,12 +45,25 @@
   * grpc
   * trpc
   * hono stack
+  * graphql
 * Languages  
   * Elixer
   * Zig
+  * Haskell
 * Mobile Dev
-  * React Native
-  * Flutter
+  * Cross Platform (single code base - multi platform)
+    * JS
+      * Native UI
+        * React Native
+        * NativeScript
+      * Hybrid Mobile
+        * Ionic / CapacitorJS
+        * Framework7
+        * Quasar
+    * .NET Maui
+  * Only 1 Platform
+    * Native Swift - iOS
+    * Native Kotlin / Java - Android
 * Production / Devops / Platforms
   * Apache Kafka
   * Databases
