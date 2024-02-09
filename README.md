@@ -1,5 +1,7 @@
 # Try Day Friday
 
+* [2024-02-09](./2024-02-09/)
+  * Trying Redis Queues
 * [2024-02-02](./2024-02-02/)
   * Trying Flutter
 * [2024-01-26](./2024-01-26/)
@@ -25,6 +27,7 @@
   * Deno Fresh
   * Elysia + Bun
   * Hugo
+  * Hono
 * JS Libraries / Frameworks
   * Ember.js
   * Alpine.js
@@ -33,14 +36,19 @@
   * Tanstack Router
   * TypeScript Plugin / Transformer
   * Typia
-* Backend Frameworks
+  * Drizzle
+  * Nest.js
+  * tmi.js v2
+  * ChartJS
+  * Deck.gl
+* Non JS Backend Frameworks
   * .NET
     * API
     * Blazor
-    * Maui
-* Backend JS Libraries
-  * Drizzle
-  * Hono
+  * Java
+    * netty
+  * Elixir
+    * Phoenix
 * Rest API Alternatives
   * grpc
   * trpc
@@ -50,6 +58,7 @@
   * Elixer
   * Zig
   * Haskell
+  * go
 * Mobile Dev
   * Cross Platform (single code base - multi platform)
     * JS
@@ -61,16 +70,42 @@
         * Framework7
         * Quasar
     * .NET Maui
+    * Kotlin Multi-platform
+    * Haxe
   * Only 1 Platform
     * Native Swift - iOS
     * Native Kotlin / Java - Android
 * Production / Devops / Platforms
-  * Apache Kafka
+  * Message Queues
+    * AWS SQS / AWS SNS
+    * RabbitMQ
+    * GCP Pub Sub
+    * QStash
+    * Azure Servicebus
+  * Scalable / Distributed
+    * Apache Kafka
+    * Apache Pulsar
   * Databases
     * Planetscale
     * Neon
     * pocketbase
+    * TypeDB
   * Paas / BaaS
     * fly.io
     * render
+    * dokku
+    * coolify
+    * railway
     * others....
+  * Elasticsearch
+* Desktop App
+  * 
+* Tools
+  * neovim
+  * zed
+  * emacs
+  * jetbrains
+  * Raycast
+  * Codeium
+  * arc
+  * Stackblizt / webcontainer

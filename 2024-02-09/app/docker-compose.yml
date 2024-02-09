@@ -1,0 +1,12 @@
+version: '3.1'
+
+services:
+  redis:
+    image: bitnami/redis:latest
+    restart: always
+    ports:
+      - ${REDIS_PORT_NUMBER}:${REDIS_PORT_NUMBER}
+    environment:
+      REDIS_PASSWORD: ${REDIS_PASSWORD}
+      REDIS_USERNAME: ${REDIS_USERNAME}
+      REDIS_PORT_NUMBER: ${REDIS_PORT_NUMBER}
